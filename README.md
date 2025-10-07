@@ -1,9 +1,50 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Science Computer**
+# 👋 Olá, eu sou o Guilherme Andrade
 
-- 📫 How to reach me **guilhermeslandrade@gmail.com**
+🎓 Sou estudante de **Ciência da Computação** e apaixonado por tecnologia, dados e inovação.  
+💡 Gosto de aprender coisas novas, aplicar meu conhecimento em **projetos práticos** e resolver problemas com **criatividade e lógica**.  
+📊 Tenho interesse em **Ciência de Dados**, **Engenharia de Dados** e **Cibersegurança**.
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+💻 **Linguagens:** Python, C/C++, SQL, HTML, CSS  
+🧠 **Frameworks:** Flask, FastAPI, Pandas, NumPy, Matplotlib  
+☁️ **Cloud / DevOps:** Azure, Docker, GitHub Actions  
+🗃️ **Bancos de dados:** PostgreSQL, SQLite, MySQL  
+
+---
+
+## 🧩 Projetos em destaque
+
+🔹 [**Painel de Check-in Aéreo**](https://github.com/guilhermeandrade/painel-checkin) — sistema em C++ com lista encadeada e ordenação por horário.  
+🔹 [**Plataforma de Resolução Extrajudicial**](https://github.com/guilhermeandrade/plataforma-conflitos) — API Python/Flask para mediação entre consumidores e empresas.  
+🔹 [**Controle PID com Previsor de Smith**](https://github.com/guilhermeandrade/controle-pid-smith) — simulação de controle FOPDT em Python.
+
+---
+
+## 📚 O que estou estudando
+
+- 🔍 **Engenharia de Dados:** pipelines, ETL, SQL avançado  
+- 🧩 **Cibersegurança:** criptografia, redes e segurança de sistemas  
+- 📈 **Machine Learning:** regressão, classificação e pré-processamento de dados  
+
+---
+
+## 🌎 Vamos nos conectar?
+
+💼 [LinkedIn](https://www.linkedin.com/in/guilhermeandrade)  
+📧 **Email:** guilhermeandrade@email.com  
+📍 São Paulo, Brasil  
+
+---
+
+> _“A tecnologia é mais poderosa quando conecta pessoas e resolve problemas reais.”_
+
+✨ Obrigado por visitar meu perfil!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
